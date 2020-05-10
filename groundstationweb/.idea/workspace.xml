@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daf96df4-8b6f-4fc6-bc15-03241b10f9c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/GroundStation/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GroundStation/index.jsx" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Td09nkQbzVGhLdPrQlSljxqOOV" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="D:/James Pan/Documents/Work/Portfolio" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\James Pan\Desktop\demo\groundstationweb\src\components\DropArea\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daf96df4-8b6f-4fc6-bc15-03241b10f9c1" name="Default Changelist" comment="" />
+      <created>1573774515712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573774515712</updated>
+      <workItem from="1573774518060" duration="1146000" />
+      <workItem from="1573876512131" duration="1854000" />
+      <workItem from="1573879244325" duration="3883000" />
+      <workItem from="1573936746137" duration="3979000" />
+      <workItem from="1573940927332" duration="2785000" />
+      <workItem from="1574039862572" duration="1866000" />
+      <workItem from="1574973693625" duration="2345000" />
+      <workItem from="1574976089994" duration="1403000" />
+      <workItem from="1575095981562" duration="3000" />
+      <workItem from="1575138119371" duration="5932000" />
+      <workItem from="1575149954361" duration="4485000" />
+      <workItem from="1578701847874" duration="142000" />
+      <workItem from="1578762510469" duration="13556000" />
+      <workItem from="1579122571352" duration="2741000" />
+      <workItem from="1579130956668" duration="2539000" />
+      <workItem from="1579218073408" duration="860000" />
+      <workItem from="1579218954268" duration="1966000" />
+      <workItem from="1579286705219" duration="3701000" />
+      <workItem from="1579294558488" duration="2458000" />
+      <workItem from="1579375015447" duration="8925000" />
+      <workItem from="1579391064456" duration="2811000" />
+      <workItem from="1579986391989" duration="1379000" />
+      <workItem from="1580574462104" duration="1066000" />
+      <workItem from="1580591087022" duration="2496000" />
+      <workItem from="1581035297121" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

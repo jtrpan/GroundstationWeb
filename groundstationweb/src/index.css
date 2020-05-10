@@ -1,0 +1,7 @@
+.clickable:hover {
+    cursor: pointer;
+}
+
+.ui.toggle.checkbox {
+    margin-bottom: 0.25em;
+}
